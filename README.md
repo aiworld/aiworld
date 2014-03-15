@@ -20,7 +20,7 @@ move_x     | Strafe                    | Float between -1.0 and 1.0
 move_y     | Move forward, backward    | Float between -1.0 and 1.0 
 look_x     | Look left, right          | Float between -1.0 and 1.0 
 look_y     | Look up, down             | Float between -1.0 and 1.0 
-shoot      | :gun:                     | Boolean True or False      
+shoot      | :boom:                    | Boolean True or False      
 jump       | Currently disabled        | Boolean True or False      
 
 ####Examples:
