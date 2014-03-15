@@ -36,6 +36,6 @@ jump       | Currently disabled        | Boolean True or False
 
 #####TODO
 - Allow changing image sizes
-- Renable jump after fixing rampant falling of the edge of world
+- Renable jump after fixing rampant falling
 - Turn off development mode in unity build
 
