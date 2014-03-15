@@ -39,6 +39,6 @@ Linux | [AngryBotsInAiWorld_x64.linux.zip](https://www.dropbox.com/s/7eua5fob1sq
 
 #####TODO
 - Allow changing image sizes
-- Renable jump after fixing rampant falling
+- Renable jump after fixing rampant falling of random bot
 - Turn off development mode in unity build
 
