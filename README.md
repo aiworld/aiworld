@@ -1,6 +1,6 @@
 #####API
 
-Send an action to receive an image from both eyes.
+Send an action to receive an image from both eyes, i.e.:
 
 _Player 1_<br>
 `http://localhost:1235/?shoot=False&move_x=0.42&move_y=-0.42&look_x=-0.42&look_y=0.42&jump=True`
@@ -14,14 +14,14 @@ _Player 2_<br>
 
 **Parameters**
 
-Name      | Value
-----------| -----
-move_x    | Float between -1.0 and 1.0
-move_y    | Float between -1.0 and 1.0
-look_x    | Float between -1.0 and 1.0
-look_y    | Float between -1.0 and 1.0
-shoot     | Boolean True or False
-jump      | Boolean True or False
+Name       | Action                    | Type                      
+---------  | -------------------       | -------------------------- 
+move_x     | Strafe                    | Float between -1.0 and 1.0 
+move_y     | Move forward, backward    | Float between -1.0 and 1.0 
+look_x     | Look left, right          | Float between -1.0 and 1.0 
+look_y     | Look up, down             | Float between -1.0 and 1.0 
+shoot      | :gun:                     | Boolean True or False      
+jump       | Currently disabled        | Boolean True or False      
 
 ####Examples:
 
@@ -31,5 +31,6 @@ jump      | Boolean True or False
 
 ####TODO
 - Allow changing image sizes
-- Turn off development mode in unity build
 - Renable jump after fixing rampant falling of the edge of world
+- Turn off development mode in unity build
+
