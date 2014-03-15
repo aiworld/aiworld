@@ -1,8 +1,3 @@
-#####Download
-- OSX [64-bit](https://www.dropbox.com/s/6nlji9u81q0yjyf/AngryBotsInAiWorld_x64.app.zip) |  [32-bit](https://www.dropbox.com/s/um0cw1r1da8dqg8/AngryBotsInAiWorld_x86.app.zip)
-- Windows [64-bit](https://www.dropbox.com/s/3atnk5pvlao9m7w/AngryBotsInAiWorld_x64.exe.zip) |  [32-bit](https://www.dropbox.com/s/f2fyoz3doql702a/AngryBotsInAiWorld_x86.exe.zip)
-- Linux [64-bit](https://www.dropbox.com/s/7eua5fob1sq4ht2/AngryBotsInAiWorld_x64.linux.zip) | [32-bit](https://www.dropbox.com/s/5ufyr2r7ajf9c2s/AngryBotsInAiWorld_x86.linux.zip)
-
 #####API
 
 Send an action to receive an image from both eyes, i.e.:
@@ -33,6 +28,14 @@ jump       | Currently disabled        | Boolean True or False
 [random_bot.py](https://github.com/aiworld/AngryBotsInAiWorld/blob/master/examples/random_bot.py)
 
 [twirling_bot (web - coffeescript)](https://github.com/aiworld/AngryBotsInAiWorld/tree/master/examples/twirling_bot)
+
+#####Download
+
+OS       | 64 bit | 32 bit                      
+-------- | ------ | ------
+OSX | [AngryBotsInAiWorld_x64.app.zip](https://www.dropbox.com/s/6nlji9u81q0yjyf/AngryBotsInAiWorld_x64.app.zip) |  [AngryBotsInAiWorld_x86.app.zip](https://www.dropbox.com/s/um0cw1r1da8dqg8/AngryBotsInAiWorld_x86.app.zip)
+Windows | [AngryBotsInAiWorld_x64.exe.zip](https://www.dropbox.com/s/3atnk5pvlao9m7w/AngryBotsInAiWorld_x64.exe.zip) |  [AngryBotsInAiWorld_x86.exe.zip](https://www.dropbox.com/s/f2fyoz3doql702a/AngryBotsInAiWorld_x86.exe.zip)
+Linux | [AngryBotsInAiWorld_x64.linux.zip](https://www.dropbox.com/s/7eua5fob1sq4ht2/AngryBotsInAiWorld_x64.linux.zip) | [AngryBotsInAiWorld_x86.linux.zip](https://www.dropbox.com/s/5ufyr2r7ajf9c2s/AngryBotsInAiWorld_x86.linux.zip)
 
 #####TODO
 - Allow changing image sizes
