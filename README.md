@@ -1,8 +1,7 @@
 #####Download
-- [OSX 64-bit](https://www.dropbox.com/s/6nlji9u81q0yjyf/AngryBotsInAiWorld_x64.app.zip)
-- [OSX 32-bit](https://www.dropbox.com/s/um0cw1r1da8dqg8/AngryBotsInAiWorld_x86.app.zip)
-- [Windows 64-bit](https://www.dropbox.com/s/3atnk5pvlao9m7w/AngryBotsInAiWorld_x64.exe.zip)
-- [Windows 32-bit](https://www.dropbox.com/s/f2fyoz3doql702a/AngryBotsInAiWorld_x86.exe.zip)
+- OSX [64-bit](https://www.dropbox.com/s/6nlji9u81q0yjyf/AngryBotsInAiWorld_x64.app.zip) |  [32-bit](https://www.dropbox.com/s/um0cw1r1da8dqg8/AngryBotsInAiWorld_x86.app.zip)
+- Windows [64-bit](https://www.dropbox.com/s/3atnk5pvlao9m7w/AngryBotsInAiWorld_x64.exe.zip) |  [32-bit](https://www.dropbox.com/s/f2fyoz3doql702a/AngryBotsInAiWorld_x86.exe.zip)
+- Linux [64-bit](https://www.dropbox.com/s/7eua5fob1sq4ht2/AngryBotsInAiWorld_x64.linux.zip) | [32-bit](https://www.dropbox.com/s/5ufyr2r7ajf9c2s/AngryBotsInAiWorld_x86.linux.zip)
 
 #####API
 
