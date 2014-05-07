@@ -43,3 +43,6 @@ Linux | [AngryBotsInAiWorld_x64.linux.zip](https://www.dropbox.com/s/7eua5fob1sq
 - Turn off development mode in unity build
 
 _Based off [Angry Bots](https://www.assetstore.unity3d.com/#/content/12175) demo game for [Unity3D](http://unity3d.com/unity)._
+
+#####DEMO
+[![Demo](http://img.youtube.com/vi/H_ZYuXO_0Ak/0.jpg)](http://www.youtube.com/watch?v=H_ZYuXO_0Ak)
