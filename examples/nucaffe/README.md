@@ -27,15 +27,15 @@ However, filter_successes.py has since changed to give a more accurate represent
 A result of the new algorithm is successes.csv.
 
 The algorithm used in the hackathon keyed off one successful time step and
-saved the experience that surrounded that success. The new algorithm takes
-a longer sequence of time steps into account and averages the success of all
-time steps in that experience by shots_landed / times_shot and only then saves
-the sequence.
+saved the experience that surrounded it. The new algorithm takes
+a longer sequence of time steps into account and scores the success by total
+shots_landed / times_shot, saving sequences with greater than 1.5 hit ratio.
+I will post the results of this method shortly.
 
 Files that were created/modified in AngryBots to change the game to FPS from third person,
 create two cameras for each bot as eyes that converge on a central focus, and
 embed event loop HTTP servers within each player to capture image input and
-receive actions are as follows:
+receive actions:
 
 * `Assets/Scripts/HTTPServer.cs`
 * `Assets/Scripts/SaveScreen.cs`
