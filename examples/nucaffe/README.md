@@ -1,5 +1,7 @@
+```
 Bot controlled by caffe -> NuPIC sensorimotor loop.
                      ^_______|
+```                     
 
 * fais (First AI Shooter) is the Unity game project based off their AngryBots sample game.
 * nupic_ contains the code and data used to train and run NuPIC via a cherrypy server.
