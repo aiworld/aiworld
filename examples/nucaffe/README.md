@@ -5,9 +5,9 @@ Bot controlled by caffe -> NuPIC sensorimotor loop.
 
 Directories
 
-* fais (First AI Shooter) is the Unity game project based off their AngryBots sample game.
-* nupic_ contains the code and data used to train and run NuPIC via a cherrypy server.
-* caffe_ contains the code and data for the pretrained nueral net that transforms images the bot sees into a series of features.
+* **fais** (First AI Shooter) is the Unity game project based off their AngryBots sample game.
+* **nupic_** contains the code and data used to train and run NuPIC via a cherrypy server.
+* **caffe_** contains the code and data for the pretrained nueral net that transforms images the bot sees into a series of features.
 
 # Installation
 * nupic_ and caffe_ use different versions of numpy so I recommend using virtualenv to separate their python environments.
