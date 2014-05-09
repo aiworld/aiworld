@@ -10,10 +10,10 @@ Directories
 * **caffe_** contains the code and data for the pretrained nueral net that transforms images the bot sees into a series of features.
 
 # Installation
-* nupic_ and caffe_ use different versions of numpy so I recommend using virtualenv to separate their python environments.
-* Otherwise for nupic_ install per https://github.com/numenta/nupic
-* and caffe_ to http://caffe.berkeleyvision.org/installation.html making sure to use MKL BLAS for 5x speedup over OpenBLAS
-and 2x boost over ATLAS.
+* NuPIC and Caffe use different versions of numpy so I recommend using virtualenv to separate the python environments.
+* Install NuPIC install per https://github.com/numenta/nupic
+* Install Caffe to http://caffe.berkeleyvision.org/installation.html Note: MKL BLAS offers a 5x speedup over OpenBLAS
+and 2x over ATLAS.
 * Download the pretrained neural net weights from https://www.dropbox.com/s/iqd1ioswluqgblj/caffe_reference_imagenet_model into `caffe_/imagenet`
 * Unity is required to edit and run fais: https://unity3d.com/unity/download
 
