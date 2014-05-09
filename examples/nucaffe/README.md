@@ -12,8 +12,9 @@ Directories
 # Installation
 * nupic_ and caffe_ use different versions of numpy so I recommend using virtualenv to separate their python environments.
 * Otherwise for nupic_ install per https://github.com/numenta/nupic
-* and caffe_ to http://caffe.berkeleyvision.org/installation.html making sure to use MKL BLAS for 5x speedup over OpenBLAS and 2x boost over ATLAS.
-** Download the neural net from https://www.dropbox.com/s/iqd1ioswluqgblj/caffe_reference_imagenet_model into `caffe_/imagenet`
+* and caffe_ to http://caffe.berkeleyvision.org/installation.html making sure to use MKL BLAS for 5x speedup over OpenBLAS
+and 2x boost over ATLAS.
+* Download the pretrained neural net weights from https://www.dropbox.com/s/iqd1ioswluqgblj/caffe_reference_imagenet_model into `caffe_/imagenet`
 * Unity is required to edit and run fais: https://unity3d.com/unity/download
 
 # Running
